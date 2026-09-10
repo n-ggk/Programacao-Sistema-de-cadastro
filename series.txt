@@ -1,0 +1,50 @@
+# Título; Temporadas; Episodios; Nota; Localidade; Diretor; Streaming
+Stranger Things; 5; 42; 8.7; EUA; The Duffer Brothers; Netflix
+Breaking Bad; 5; 62; 9.5; EUA; Vince Gilligan; Netflix
+Game of Thrones; 8; 73; 9.2; EUA; David Benioff; Max
+The Boys; 4; 32; 8.7; EUA; Eric Kripke; Prime Video
+The Last of Us; 1; 9; 8.8; EUA; Craig Mazin; Max
+Succession; 4; 39; 8.9; EUA; Jesse Armstrong; Max
+Ted Lasso; 3; 34; 8.8; EUA; Jason Sudeikis; Apple TV+
+The Bear; 3; 28; 8.6; EUA; Christopher Storer; Disney+
+Shogun; 1; 10; 8.7; Japão; Justin Marks; Disney+
+Severance; 1; 9; 8.7; EUA; Dan Erickson; Apple TV+
+Better Call Saul; 6; 63; 9.0; EUA; Vince Gilligan; Netflix
+Black Mirror; 6; 27; 8.7; Reino Unido; Charlie Brooker; Netflix
+The Mandalorian; 3; 24; 8.7; EUA; Jon Favreau; Disney+
+House of the Dragon; 2; 18; 8.4; EUA; Ryan Condal; Max
+Dark; 3; 26; 8.7; Alemanha; Baran bo Odar; Netflix
+Peaky Blinders; 6; 36; 8.8; Reino Unido; Steven Knight; Netflix
+The Office (US); 9; 201; 9.0; EUA; Greg Daniels; Netflix
+Friends; 10; 236; 8.9; EUA; David Crane; Max
+Chernobyl; 1; 5; 9.4; Reino Unido; Craig Mazin; Max
+Mindhunter; 2; 19; 8.6; EUA; Joe Penhall; Netflix
+Sherlock; 4; 13; 9.1; Reino Unido; Steven Moffat; Prime Video
+Mad Men; 7; 92; 8.7; EUA; Matthew Weiner; Prime Video
+The Sopranos; 6; 86; 9.2; EUA; David Chase; Max
+The Wire; 5; 60; 9.3; EUA; David Simon; Max
+Fleabag; 2; 12; 8.7; Reino Unido; Phoebe Waller-Bridge; Prime Video
+Atlanta; 4; 41; 8.6; EUA; Donald Glover; Disney+
+Arcane; 1; 9; 9.0; EUA; Christian Linke; Netflix
+Fallout; 1; 8; 8.4; EUA; Graham Wagner; Prime Video
+Reacher; 2; 16; 8.1; EUA; Nick Santora; Prime Video
+Invincible; 2; 16; 8.7; EUA; Robert Kirkman; Prime Video
+Loki; 2; 12; 8.2; EUA; Michael Waldron; Disney+
+WandaVision; 1; 9; 7.9; EUA; Jac Schaeffer; Disney+
+Squid Game; 1; 9; 8.0; Coreia do Sul; Hwang Dong-hyuk; Netflix
+Money Heist; 5; 41; 8.2; Espanha; Álex Pina; Netflix
+Cobra Kai; 6; 65; 8.5; EUA; Josh Heald; Netflix
+The Queen's Gambit; 1; 7; 8.5; EUA; Scott Frank; Netflix
+Ozark; 4; 44; 8.5; EUA; Bill Dubuque; Netflix
+Euphoria; 2; 16; 8.3; EUA; Sam Levinson; Max
+White Lotus; 2; 13; 7.9; EUA; Mike White; Max
+Fargo; 5; 51; 8.9; EUA; Noah Hawley; Prime Video
+True Detective; 4; 30; 8.9; EUA; Nic Pizzolatto; Max
+Westworld; 4; 36; 8.5; EUA; Jonathan Nolan; Max
+Blue Eye Samurai; 1; 8; 8.7; EUA; Amber Noizumi; Netflix
+One Piece; 1; 8; 8.4; EUA; Matt Owens; Netflix
+The Witcher; 3; 24; 8.0; Polônia; Lauren Schmidt; Netflix
+Brooklyn Nine-Nine; 8; 153; 8.4; EUA; Dan Goor; Netflix
+Yellowstone; 5; 47; 8.7; EUA; Taylor Sheridan; Paramount+
+Tulsa King; 1; 9; 8.0; EUA; Taylor Sheridan; Paramount+
+Hannibal; 3; 39; 8.5; EUA; Bryan Fuller; Prime Video
